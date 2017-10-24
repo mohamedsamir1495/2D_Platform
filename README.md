@@ -27,4 +27,4 @@ I have much help from my great tutor which i didnt get to know his name :D
 
 But u can find him on youtube.com/inScopeStudios
 
-This project will teach u who to code in C# , learn some design patterns and oop princples i hope u find it useful
+This project will teach u how to code in C# , learn some design patterns and oop princples i hope u find it useful
